@@ -64,7 +64,7 @@ ${data.tests}
 
 ## Questions
 
-${data.questions}
+You can contact me on my github at https://www.github.com/${data.username}/ or on email at ${data.email} with any questions
 
 ${renderLicenseSection(data.license)}
 `
