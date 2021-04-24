@@ -59,10 +59,8 @@ const questions = [
     name: 'license',
     choices: [
       "No License",
-      "License 1",
-      "License 2",
-      "License 3",
-      "License 4",
+      "MIT",
+      "Apache-2.0",
     ]},
     {
       type: 'input',
