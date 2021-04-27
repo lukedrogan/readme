@@ -56,15 +56,15 @@ ${data.usage}
 
 ## Contributors
 
-${data.contributors}
+${data.contribution}
 
 ## Tests 
 
-${data.tests}
+${data.test}
 
 ## Questions
 
-You can contact me on my github at https://www.github.com/${data.username}/ or on email at ${data.email} with any questions
+You can contact me on my github at [${data.username}](https://www.github.com/${data.username}/) or on email at ${data.email} with any questions
 
 ${renderLicenseSection(data.license)}
 `

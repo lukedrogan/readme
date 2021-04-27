@@ -1,10 +1,10 @@
-# 
+# Readme Project
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-
+To create an application that generates a readme file
 
 ## Table of Contents
 
@@ -12,28 +12,28 @@
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Tests](#tests)
-* [Questions](questions)
+* [Questions](#questions)
 * [License](#license)
 
 ## Installation
 
-
+N/A
 
 ## Usage
 
-
+N/A
 
 ## Contributors
 
-undefined
+For contributors please use contact details below
 
 ## Tests 
 
-undefined
+No testing applicable for this project
 
 ## Questions
 
-undefined
+You can contact me on my github at [lukedrogan](https://www.github.com/lukedrogan/) or on email at luke@super-wide.com with any questions
 
 ## License
   
